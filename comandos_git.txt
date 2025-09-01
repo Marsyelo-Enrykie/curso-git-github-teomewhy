@@ -1,0 +1,4 @@
+git init. -> cria um repositório git na pasta atual.
+git status -> mostra o status atual do trabalho (de cada arquivo).
+git add "nome_arquivo/pasta" -> adiciona arquivo/pasta para a área de stage (área especial do repositório que aguarda ser "commitada").
+git commit -m "msg" -> realiza um commit dos aquivos na área do stage

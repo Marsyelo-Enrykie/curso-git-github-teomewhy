@@ -1,4 +1,8 @@
-Esse arquivo con´tém comandos secundários de git
+Esse arquivo contém informações adicionais para git
 
 - Primeiro Comando
 - Secundo Comando
+
+
+# comandos mais genéricos
+- comandos estranhos

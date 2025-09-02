@@ -1,0 +1,1 @@
+Este é um exemplo para o curso de git

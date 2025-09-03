@@ -1,8 +1,8 @@
-git init. -> cria um repositório git na pasta atual.
-git status -> mostra o status atual do trabalho (de cada arquivo).
-git add "nome_arquivo/pasta" -> adiciona arquivo/pasta para a área de stage (área especial do repositório que aguarda ser "commitada").
-git commit -m "msg" -> realiza um commit dos arquivos na área do stage.
-git log -> mostra todo o histórico de commits realizados.
+git init. 			-> Cria um repositório git na pasta atual.
+git status 			-> Mostra o status atual do trabalho (de cada arquivo).
+git add "nome_arquivo/pasta" 	-> Adiciona arquivo/pasta para a área de stage (área especial do repositório que aguarda ser "commitada").
+git commit -m "msg"		-> Realiza um commit dos arquivos na área do stage.
+git log				-> Mostra todo o histórico de commits realizados.
 
 # FLUXO DE TRABALHO
 1. criar diretório (pasta) do projeto

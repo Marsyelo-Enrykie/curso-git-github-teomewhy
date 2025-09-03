@@ -14,7 +14,7 @@ Tudo feito através do ensinamento do Professor Téo Calvo em seu canal: Teo Me 
 
 
 
-\## Fluxo de trabalho Git local
+## Fluxo de trabalho Git local
 
 01\. git checkout -b <nova\_branch>
 
@@ -38,7 +38,7 @@ Tudo feito através do ensinamento do Professor Téo Calvo em seu canal: Teo Me 
 
 
 
-\## Fluxo de trabalho Git <> Local (projeto próprio ou da sua empresa)
+## Fluxo de trabalho Git <> Local (projeto próprio ou da sua empresa)
 
 01\. git clone <endereço\_do\_projeto>
 
@@ -70,7 +70,7 @@ Tudo feito através do ensinamento do Professor Téo Calvo em seu canal: Teo Me 
 
 
 
-\## Fluxo de trabalho GitHub <> Local (projetos open-source)
+## Fluxo de trabalho GitHub <> Local (projetos open-source)
 
 01\. Fork do projeto para seu próprio GitHub
 

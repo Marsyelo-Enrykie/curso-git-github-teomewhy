@@ -5,9 +5,10 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 Além disso, trabalhamos com GitFlow ao final do curso e Visual Studio Code
 
 Tudo feito através do ensinamento do Professor Téo Calvo em seu canal: Teo Me Why. Segue o link:
-
 [Curso Git 2025](https://www.youtube.com/@teomewhy)
 
+Além deste curso, o Téo oferece também curso de Python, Estatística, Machine Learning, SQL e projetos práticos. Tudo isso pode ser visto em:
+[Cursos oferecidos por teomewhy](https://cursos.teomewhy.org/)
 
 ## Fluxo de trabalho Git local
 
